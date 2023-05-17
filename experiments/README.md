@@ -10,7 +10,7 @@ The goal of these projects is to implement novel algorithms for fair elections a
 
 4. Fair deteremination of schedule for politicians: https://arxiv.org/abs/2105.08043 .
 
-5. Developing and implementing a cryptographic voting system. 
+5. Developing and implementing a cryptographic voting system (requires a course in cryptography).
 
 See [timetable](timetable.md).
 
