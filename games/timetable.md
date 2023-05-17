@@ -22,3 +22,8 @@ The project includes 10 milestones; each milestone is worth 5% of the final grad
 
 10. Writing a report based on the playtest results. Due by 15/7/24.
 
+The rest of the grade will be determined as follows:
+* 20% by the project coordinator (Or Anidjar);
+* 15% by Boaz Ben-Moshe;
+* 15% by Amit Dvir.
+Their grade will be based on the poster, the oral examination, the report and the code.

@@ -4,7 +4,13 @@ The goal of these projects is to implement novel algorithms for fair elections a
 
 1. Fair allocation of budget: https://dl.acm.org/doi/abs/10.1145/3328526.3329557 and https://ojs.aaai.org/index.php/AAAI/article/view/20421 and .
 
-2. Fair committee election: https://en.wikipedia.org/wiki/Proportional_approval_voting and https://en.wikipedia.org/wiki/Phragmen%27s_voting_rules .
+2. Fair election to knesset: https://en.wikipedia.org/wiki/Proportional_approval_voting  and https://dl.acm.org/doi/abs/10.1145/3465456.3467641 .
+
+3. Fair primary elections: https://en.wikipedia.org/wiki/Phragmen%27s_voting_rules .
+
+4. Fair deteremination of schedule for politicians: https://arxiv.org/abs/2105.08043 .
+
+5. Developing and implementing a cryptographic voting system. 
 
 See [timetable](timetable.md).
 

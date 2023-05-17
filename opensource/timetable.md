@@ -12,11 +12,10 @@ There are 5 milestones. The grade for each milestone is 10%:
 6. BONUS: Submit a pull-request to the library. See details [here](https://github.com/erelsgl-at-ariel/research-5783/blob/main/12-python-publishing/homework.pdf). OR: Write a website for demonstrating your algorithm. See details [here](https://github.com/erelsgl-at-ariel/research-5783/blob/main/11-python-web/homework.pdf).
 
 
-
 The rest of the grade will be determined as follows:
-* 20% by the project coordinator (Or Anidjar), based on 15 minutes oral exam;
+* 20% by the project coordinator (Or Anidjar);
 * 15% by Boaz Ben-Moshe;
 * 15% by Amit Dvir.
-
+Their grade will be based on the poster, the oral examination, the report and the code.
 
 </div>
